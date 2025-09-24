@@ -16,7 +16,7 @@ Deployed with [Vercel](https://vercel.com).
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - [Next.js](https://nextjs.org/) – React framework
 - [TypeScript](https://www.typescriptlang.org/) – type safety
 - [Tailwind CSS](https://tailwindcss.com/) – utility-first styling
